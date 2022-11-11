@@ -1,7 +1,7 @@
 ### Hi there, I'm Ajit Jadhav 👋
 
 
-- 🔭 I’m currently pursuing my Masters in Data Science.
+- 🔭 I’m currently pursuing my Masters in Data Science From University of Maryland, Baltimore County.
 - 💼 I'm looking for full time opportunities in Data Science, Data Analytics, Business Analytics and Data Engineering in the United States starting from May 2023.
 - 🧑‍💻I like solving Leetcode SQL problems in my free time.
 - 📫 How to reach me: Twitter - 
