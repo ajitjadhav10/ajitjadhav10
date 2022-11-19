@@ -5,7 +5,7 @@
 - 💼 I'm looking for full time opportunities in Data Science, Data Analytics, Business Analytics and Data Engineering in the United States starting from May 2023.
 - 🧑‍💻I like solving Leetcode SQL problems in my free time.
 - 📫 How to reach me: Twitter - 
-[@iamajitjadhav](https://twitter.com/iamajitjadhav)
+[@iamajitjadhav](https://twitter.com/iamajitjadhav), Linkedin - [Link](https://www.linkedin.com/in/ajit-r-jadhav/)
 , Email - ajitjadhav97@gmail.com, ajitjadhav@umbc.edu
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I can solve the 3x3 Rubik's cube, 2x2 cube, pyraminx and the mirror cube.
