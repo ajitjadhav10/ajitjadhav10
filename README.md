@@ -1,4 +1,4 @@
-### Hi there, I'm Ajit Rajesh Jadhav 👋
+### Hi there, I'm Ajit Rajesh Jadhav 👋 
 
 
 - 🔭 I’m currently pursuing my Masters in Data Science From University of Maryland, Baltimore County.
