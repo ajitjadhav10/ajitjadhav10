@@ -1,7 +1,7 @@
 ### Hi there, I'm Ajit Rajesh Jadhav 👋 
 
 
-- 🔭 I’m currently pursuing my Masters in Data Science From University of Maryland, Baltimore County.
+- 🔭 I recently graduated with my Masters in Data Science From University of Maryland, Baltimore County.
 - **💼 I'm looking for full time opportunities as a Data Scientist, Data Analyst, Business Analyst / Data Engineer in the United States.**
 - 🧑‍💻I like solving Leetcode SQL problems in my free time.
 - 📫 How to reach me: Twitter - 
