@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently pursuing my Masters in Data Science From University of Maryland, Baltimore County.
-- **💼 I'm looking for full time opportunities as a Data Scientist, Data Analyst, Business Analyst / Data Engineer in the United States starting from May 2023.**
+- **💼 I'm looking for full time opportunities as a Data Scientist, Data Analyst, Business Analyst / Data Engineer in the United States.**
 - 🧑‍💻I like solving Leetcode SQL problems in my free time.
 - 📫 How to reach me: Twitter - 
 [@iamajitjadhav](https://twitter.com/iamajitjadhav), Linkedin - [Link](https://www.linkedin.com/in/ajit-r-jadhav/)
